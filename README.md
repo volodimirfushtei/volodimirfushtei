@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volodymyr Fushtei</h1>
 <h3 align="center">🚀 Fullstack Developer </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF4D5A&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code...;React+%2F+Node.js+%2F+MongoDB" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="programmer.jpg" alt="Programmer at Work" width="600"/>
 </p>
 
 <p align="center">
