@@ -5,7 +5,7 @@
 </p>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodimirfushtei/)&nbsp;[![Telegram Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/Volodimirfushtei)&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:fuschteyy@gmail.com)<br>
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodimirfushtei/)&nbsp;[![Telegram Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/Volodimirfushtei)&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:fuschteyy@gmail.com)<br>
 
 
 
