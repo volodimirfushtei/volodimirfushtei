@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volodymyr Fushtei</h1>
 <h3 align="center">🚀 Fullstack Developer </h3>
 <p align="center">
-  <img src="programmer.jpg" alt="Programmer at Work" width="600"/>
+  <img src="programmer.jpg" alt="Programmer at Work" width="500"/>
 </p>
 
 <p align="center">
