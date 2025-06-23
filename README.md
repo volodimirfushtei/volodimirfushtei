@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Volodymyr Fushtei</h1>
-<h3 align="center">🚀 Fullstack Developer | React • Node.js • MongoDB</h3>
+<h3 align="center">🚀 Fullstack Developer </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,10 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
- <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.b1b5d500.svg" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/373590/render.svg" alt="Render" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/59525980?s=200&v=4" alt="Render" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
 </p>
 
@@ -48,17 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=volodimirfushtei&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volodimirfushtei&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔥 GitHub Profile Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=volodimirfushtei&theme=highcontrast&hide_border=true"
-    alt="GitHub Streak"
-  />
 </p>
 
 ---
