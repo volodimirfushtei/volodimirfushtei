@@ -1,35 +1,74 @@
 <h1 align="center">Hi 👋, I'm Volodymyr Fushtei</h1>
-<h3 align="center">Fullstack Developer | React • Node.js • MongoDB</h3>
-
+<h3 align="center">🚀 Fullstack Developer | React • Node.js • MongoDB</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **GOIT-Campers** — booking platform for camper vans  
-- 🌱 I’m learning advanced backend patterns with **NestJS** and **PostgreSQL**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🖼 My portfolio: [fushtei.dev]([https://fushtei.dev](https://github.com/volodimirfushtei))
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **GOIT-Campers** — a camper van booking platform  
+- 🌱 Exploring backend architecture with **NestJS** and **PostgreSQL**
+- 🌐 Building scalable and beautiful UIs with **React**, **Next.js**, and **TailwindCSS**
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌍 Visit my portfolio: [fushtei.dev](https://fushtei.dev)
 
 ---
 
-🧰 Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /> </p>
+### 🧰 Tech Stack
 
-### 📊 GitHub Stats:
-<p align="center" margin="20px">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=volodimirfushtei&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volodimirfushtei&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volodimirfushtei&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 💬 Motto:
-> "Code is like humor. When you have to explain it, it’s bad."
+### 🔥 GitHub Profile Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=volodimirfushtei&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 💬 Motto
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — Martin Fowler
+
+> “First, solve the problem. Then, write the code.”  
+> — John Johnson
+
+---
+
+<!-- Visit counters (optional) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=volodimirfushtei&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 
