@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volodymyr Fushtei</h1>
 <h3 align="center">Fullstack Developer | React • Node.js • MongoDB</h3>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -14,7 +15,7 @@
 - 🔭 I’m currently working on **GOIT-Campers** — booking platform for camper vans  
 - 🌱 I’m learning advanced backend patterns with **NestJS** and **PostgreSQL**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🖼 My portfolio: [fushtei.dev](https://fushtei.dev)
+- 🖼 My portfolio: [fushtei.dev]([https://fushtei.dev](https://github.com/volodimirfushtei))
 
 ---
 
