@@ -95,7 +95,7 @@
   | Project | Description | Tech Stack |
   |---------|-------------|------------|
   | [GOIT-Campers](https://github.com/volodimirfushtei/goit-campers) | Camper van booking platform | React, Node.js, MongoDB |
-  | [Portfolio](https://fushtei.dev) | Personal developer portfolio | Next.js, TailwindCSS |
+  | [Portfolio](https://portfolio-vi6r.vercel.app/)| Personal developer portfolio | React.js, TailwindCSS |
   
 </div>
 
