@@ -19,7 +19,7 @@
   <a href="mailto:fuschteyy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://fushtei.dev" target="_blank">
+  <a href="https://portfolio-vi6r.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </div>
